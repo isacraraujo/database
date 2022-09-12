@@ -1,0 +1,27 @@
+-- 01) Listar a quantidade total de clientes
+
+-- 02) Listar a média dos preços dos veículos
+
+-- 03) Listar o veículo mais caro
+
+-- 04) Listar o veículo mais barato do vendedor “Jose Pereira”
+
+-- 05) Listar o total de pedidos por vendedor
+
+-- 06) Listar o veículo, vendedor, cliente por ordem de ano do pedido, veículo e cliente
+
+-- 07) Listar o veículo, cliente e quantos meses tem o pedido
+
+-- 08) Listar o veículo, cliente, vendedor, valor do pedido, valor do pedido + 100 como "valor+taxa", valor do pedido acrescido de 20% como "preço do reajuste"
+
+-- 09) Listar a média das vendas antes do mês 07 do ano 2021
+
+-- 10) Listar o valor total das vendas depois do mês 06 do ano 2021
+
+-- 11) Listar o veículo vendido, quantidade de meses tem a compra
+
+-- 12) Listar os vendedores e a somatória das comissões por vendedor
+
+-- 13) Listar os clientes e quantidade de compras realizadas
+
+-- 14) Listar nr_pedido, comissão e classificação (< 4000 = normal) (>=4000 e <5000 = Boa) (> 5000 = Ótima)

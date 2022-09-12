@@ -1,0 +1,9 @@
+BD - Prática de Comandos SQL - DML - BD_RH
+
+- Criar banco de dados do MER em anexo "MER - BD_RH.png"
+
+- Executar o script de carga das tabelas em anexo "BD_AT09_BD_Script_Criação_Carga_BD.sql"
+
+- Criar os comandos SQL para resolver as questões do exercício "AT09 - BD - Exercício Comandos SQL - BD_RH.docx"
+
+(material)

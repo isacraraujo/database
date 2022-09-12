@@ -1,0 +1,16 @@
+	
+Olá,
+
+Seguem algumas considerações sobre o seu MER:
+
+- O relacionamento entre Aluno e Exemplar não deve ser feito diretamente, pois ele já está sendo estabelecido pelo EmprestBiblio.
+
+- O relacionamento entre EmprestBiblio e Aluno está invertido (1:N). O mesmo entre ExemplarLivro e EmprestBiblio.
+
+- O relacionamento entre TituloLivro e ExemplarLivro está invertido também.
+
+- O ISBN é um atributo simples e não tem nenhum campo associado. Os campos editora e categoria pertencem ao TituloLivro.
+
+- O relacionamento entre TituloLivro e AutorLivro deve ser (N:N) e para fazer isso temos que criar uma tabela associativa "TituloLivroAutorLivro"
+
+Abraços,

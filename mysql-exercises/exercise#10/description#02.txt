@@ -1,0 +1,36 @@
+Atividade Prática 12 – Comandos SQL/DML – Views (parte 1)
+
+ 
+
+Realize os comandos abaixo:
+
+A partir do BD_RH
+
+-- 01 Criar view  Vw01 que Lista todos os campos tb_funcionario order nome desc
+
+-- 02 Criar view  Vw02 que Lista funcionário cargo order by nome
+
+-- 03 Criar view  Vw03 que Lista a quantidade de funcionários por setor  - Lista por ordem de setor
+
+-- 04 Criar view  Vw04 que Lista o funcionário, setor e cargo  - Lista por ordem de funcionário
+
+-- 05 Criar view  Vw05 que Lista a quantidade dos salários dos funcionário por setor
+
+ 
+
+Atividade Prática 12 – Comandos SQL/DCL – Controle de Transação (parte 2)
+
+A partir do BD_Pedido
+
+-- 01 criar uma consulta que faça ROLLBACK - deletar todos os pedidos do mês 10
+
+-- 02 criar uma consulta que faça ROLLBACK - aumentar o valor da comissao em 50%
+
+-- 03 criar uma consulta que faça ROLLBACK - aumentar o valor dos veiculos (tb_veiculo) em 20%
+
+-- 04 criar uma consulta que faça COMMIT - incluir 2 novos vendedores (Sergio Farias) (Roberto Silva)
+
+-- 05 criar uma consulta que faça COMMIT - incluir 2 novos veiculos (BMW x1, valor 207000,00) (BMW x2, valor 250000,00)
+
+-- 06 criar uma consulta que faça COMMIT - alterar a comissão em 10% a mais
+

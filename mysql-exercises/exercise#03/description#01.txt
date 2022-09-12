@@ -1,0 +1,23 @@
+Criar um modelo de dados relacional para o Sistema Agenda NPJ.  
+
+O Núcleo de Prática Jurídica do CEUB (NPJ) atende a comunidade gratuitamente nas áreas Penal, Administrativo, Cível, Família, Sucessões, Consumidor, Trabalhista e Previdenciária ( https://www.uniceub.br/nucleo-de-pratica-juridica ).
+
+Ele necessita de um sistema para controlar a sua agenda de atendimentos dos seus assistidos. 
+
+Seguem os requisitos e regras de negócio do sistema:
+
+- O assistido deve fazer um cadastro no sistema com CPF, Identidade, Nome, Endereço, Senha de Acesso
+
+- O assistido deve assinar um termo de aceite de tratamentos dos dados referente à LGPD (armazenar endereço IP e data, hora, minuto do aceite)
+
+- O assistido deve selecionar a área e local desejados;
+
+- A área deve conter a sigla e o nome da área (ex: PEN - Penal; ADM - Administrativo ....)
+
+- O local deve conter o nome do local e o endereço (ex: Fórum de Ceilândia - Fórum Desembargador José Manoel Coelho QNM 11 – Área Especial 01.)
+
+- O horário de atendimento e quantidade de vagas depende do Local e Área. Ou seja, em um determinado local pode ter horários e quantidade de vagas disponíveis de atendimentos diferentes para cada área. 
+
+- Um assistido não pode ter mais de um horário agendado ativo no sistema. 
+
+- O sistema deve garantir que a quantidade de vagas de cada horário seja obedecida. 

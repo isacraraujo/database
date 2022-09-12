@@ -1,0 +1,7 @@
+Exercício Prática de comandos SQL - DML - JOIN
+
+Resolva as atividades do arquivo em anexo. 
+
+AT10 - BD - Exercício Prática de comandos SQL - DML - JOIN.docx
+
+(material)

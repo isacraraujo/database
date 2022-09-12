@@ -1,0 +1,35 @@
+Exercício 01 – Fazer a Modelagem de dados LÓGICA do BD Apresentação dos Alunos 
+•Banco de Dados - Apresentação dos Alunos
+•O professor da disciplina de Banco de Dados precisa armazenar dados dos seus alunos para conhecer melhor a turma e poder planejar as atividades de aula.
+•Dados levantados:
+Nome do Aluno,
+Grau de instrução (Ensino Médio, Superior Completo, Pós-graduação, Mestrado, Doutorado),
+Nome do curso da primeira graduação,
+Idade, 
+Experiência profissional, 
+Hobby (esportes, filmes, games, leitura, outros...),
+Sexo (masculino, feminino)
+•Regras de Negócio:
+•O aluno deve informar o maior grau de instrução completo
+•O aluno pode informar a primeira graduação completa ou nenhuma
+• O aluno pode informar mais de um hobby, mas pode não informar
+
+Dicas para Modelagem de Dados
+
+•Entidade é o objeto do mundo real que só vai ter informação do objeto.
+•Toda Entidade tem um campo chave que diferencia e identifica.
+•Quando for um campo repetido (ex: estado civil solteiro) cria-se uma tabela.
+•Quando o relacionamento é vários para vários cria uma tabela de relacionamento.
+•Todo campo chave está relacionado com algum campo geralmente é chave estrangeira.
+•Cardinalidade é a frequência do relacionamento
+•Todo campo chave tem a cardinalidade 1 x N (um para muitos)
+•Nunca criar no campo data uma tabela.
+
+USAR QUALQUER FERRAMENTA DE MODELAGEM
+- Sugestões:  
+
+SQLDbm (nuvem)  https://sqldbm.com/Home/
+
+DBDesigner  (nuvem) https://www.dbdesigner.net/
+
+MySQL Workbench (computador) 

@@ -1,0 +1,5 @@
+ Feito: Fazer um envio
+Exercício Prático de Comandos SQL DDL - Realizar as alterações na estrutura do BD (Agenda NPJ)
+
+- Executar o Script de Criação do BD_AgendaNPJ (em anexo)
+- Criar o Script com comandos SQL para alteração do BD conforme documento em anexo.

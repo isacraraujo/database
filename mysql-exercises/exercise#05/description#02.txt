@@ -1,0 +1,13 @@
+Criar um script de comandos SQL para popular as seguintes tabelas/banco de dados:
+
+ Popular Tabelas do BD_Aluno:
+      - Curso (Medicina, Engenharia Civil, Direito, Arquitetura, Ciência da Computação, Análise de Sistemas)
+      - GrauInstrucao (Ensino Fundamental, Ensino Médio, Graduação, Especialização, Mestrado, Doutorado)
+      - Hobby (Leitura, Filmes, Futebol, Games, Música)
+      - Sexo (Masculino, Feminino)
+
+- Popular Tabelas do BD_AgendaNPJ (usar arquivo em Excel para extrair as informações)
+      - LocalAtendimento 
+      - AreaJuridica
+      - LocalAtendimentoAreaJuridica
+      - HorarioAtendimento

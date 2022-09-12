@@ -1,0 +1,9 @@
+- Criar a estrutura de banco de dados dos seguintes sistemas:
+MER – Apresentação dos Alunos
+MER – Biblioteca
+
+- Pré-condições:  
+1) Instalar e configurar (ou acessar) o servidor de banco de dados (SQL Server ou MySQL ou ...) e uma ferramenta de gerenciamento de sistema de banco de dados (ex: SSMS, WorkBench, DBeaver...)
+2) Revisar o Modelo de Dados de cada sistema
+
+- Entregar um Script com os comandos de criação das tabelas e demais objetos para cada banco de dados (arquivo texto) 
